@@ -1,0 +1,39 @@
+Easy to use OS and fully upgradable 
+All xbox version compatible “v1.0 to v1.6b” 
+Full software management 
+Network management 
+Compatible with all the actual bios 
+Display and change the Video standard 
+Display and change the DVD Region 
+Display and change the Game Region 
+Display the Serial Number 
+Display and change the Mac Address 
+Diplay the full network informations 
+Enable/Disable the embedded HTTP Server 
+Choose the Bank to use for the Autoboot 
+Add bios from CD/DVD 
+Add bios from HDD 
+Add bios from network 
+Enable/Disable function “AutoBoot On…” 
+Allow the user to lock the HDD 
+Can unlock the HDD 
+LCD light control 
+Case light control 
+Flash SpiderGX’OS from CD/DVD 
+Flash SpiderGX’OS from HDD 
+Flash SpiderGX’OS from network 
+Security file for SpiderGX’OS was choose to avoid against bad OS flash. 
+Backup the EEPROM inside the SpiderGX 
+Restore the EEPROM from the SpiderGX 
+Display of all the content of the EEProm. 
+Can backup the EEprom from the web’os 
+Can backup the EEprom from the web’os 
+Auto backup of the EEprom to the SpiderGX at the first time installation 
+Auto configuration of the SpiderGX at the first time installatin 
+Support direct boot of all media. 
+Support all game regions USA / JAP / EUR 
+Free DVD Zone 
+Support direct boot for backup and homebrow 
+Compatible MP3 (with xbmc) 
+Compatible Divx 
+Compatible picture jpg 

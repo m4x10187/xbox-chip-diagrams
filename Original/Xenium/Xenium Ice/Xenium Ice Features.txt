@@ -1,0 +1,14 @@
+Plays every Import and Backup Game from any region.
+Plays all homebrew (emulators, media player, mp3, divx.....)
+NO DIP SWITCHES
+Multiple install method, Quick-solder, pin header (supplied), wire
+Dual SPI port for unlimited future add-ons (LCD, ext LED, memory etc)
+Full color Status/Bank LED (no more Live banning!)
+Hardware protected Emergency Recovery System (ERS). (No reason to ever remove chip for a bad firmware update)
+Inbuilt Flash system. No more need for direct connection to computer (No more troublesome LPT or USB programmers)
+D0 Control. (switch to on board bios and go live safely )
+Small compact design with no complicated forced extras for the unit to function.
+External, dimmable, multifunction, full color, ultra bright LED
+USB adaptor
+Anti Clone Technology
+Full microkernel OS, developed by OzXodus to be a complete and legal environment specifically tailored to the modder's needs

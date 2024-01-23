@@ -1,0 +1,6 @@
+Solder Free installation on Xbox V1.0 - V1.6
+Plays every Import and Backup Game from any region.
+Plays all homebrew (emulators, media player, mp3, divx.....)
+The chip come pre-programmed with a modified cromwell bios. The bios allow to reflash the chip via a CD, or to lock/unlock the HD.
+The external on/off switch (which is included) is optional. If the switch is not connected, the chip is always ON.
+The chip come in a hard metal case, to protect the spider chip from any damage during shipping.

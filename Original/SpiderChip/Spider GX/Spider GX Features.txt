@@ -1,0 +1,17 @@
+Full solderless solution for Xbox 1.0 to 1.6b 
+Running on one full speed CPLD with low power consumption. 
+16Mb Flash Memory: (OS)+(BIOS)+(SETTINGS)+(EEPROM Backup) 
+New Pogo-Pins with High electric conductivity metal. 
+5v connector for xbox case and/or customizing light. 
+LCD Connector, full software controlling. 
+LCD Backlight engine control. (can be controlled manually or by software). 
+Front panel connector (with build-in real speed programmer connector). 
+Connector for add-on and free plugging. 
+Status control LED. 
+Programmation Status LED 
+Flash In Progress LED 
+Hard Enable/Disable the modchip. 
+Power LED. 
+Full manual modchip management. 
+External LCD light control. 
+Installation LED Control for each wires of the Spider Wires board. Ease and safe your installation.
