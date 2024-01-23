@@ -1,0 +1,16 @@
+The OzXChip has all the features you'd expect including:
+
+1 wire and 1 header easy to install design
+
+Compatible with all existing XBox Motherboards (V1.0 & V1.1)
+
+Works on all Region XBox consoles
+
+Disable switch compatibility 
+
+Flash upgradeable using OzXFlash or PC
+
+Linux compatible
+
+Easy installation using a LPC header
+
